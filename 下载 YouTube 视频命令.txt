@@ -1,0 +1,9 @@
+yt-dlp -f "bestvideo+bestaudio" --proxy socks5://127.0.0.1:1080/ --write-auto-subs --sub-langs "zh-Hans" --convert-subs srt https://www.youtube.com/watch?v=O9EFQ1nB42s
+
+yt-dlp -f "bestvideo+bestaudio" --proxy socks5://127.0.0.1:1080/ --write-auto-subs --sub-langs "zh-Hans" --convert-subs srt https://www.youtube.com/watch?v=KicNkuimCws
+
+yt-dlp -f "bestvideo+bestaudio" --proxy socks5://127.0.0.1:1080/ --write-auto-subs --sub-langs "zh-Hans" --convert-subs srt https://www.youtube.com/watch?v=KicNkuimCws
+
+yt-dlp -f "bestvideo+bestaudio" --proxy socks5://127.0.0.1:1080/ --write-auto-subs --sub-langs "zh-Hans" --convert-subs srt https://www.youtube.com/watch?v=KicNkuimCws
+
+yt-dlp -f "bestvideo+bestaudio" --proxy socks5://127.0.0.1:1080/ --write-auto-subs --sub-langs "zh-Hans" --convert-subs srt https://www.youtube.com/watch?v=d1-bnv0YWbc&t=109s
